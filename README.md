@@ -1,10 +1,11 @@
 # Python-Data-Structures-And-Algorithms
 
 Includes my practice code for Python Data Structures and Algorithms which is written based on CodDevX's youtube tutorial. Includes:
-Sequences: String, List, Tuple
-Sets
-Dictionaries
-Stacks, Queues, and Heaps
-Linked Lists
-Binary Search Trees
-Graphs
+<br>
+<br>Sequences: String, List, Tuple
+<br>Sets
+<br>Dictionaries
+<br>Stacks, Queues, and Heaps
+<br>Linked Lists
+<br>Binary Search Trees
+<br>Graphs
